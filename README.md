@@ -1,9 +1,9 @@
 # two-level-counting-corrections
 
 Symbolic Mathematica derivations of the photon-counting statistics of a
-two-level emitter with dephasing noise, accompanying the paper
+two-level emitter with dephasing noise, accompanying the paper:
 
-The Transient Counting Statistics of Autonomous Quantum Clocks, Oscar Arandes and Sreenath K. Manikandan 
+**The Transient Counting Statistics of Autonomous Quantum Clocks**, *Oscar Arandes and Sreenath K. Manikandan* 
 
 The notebook provides closed-form expressions for the asymptotic counting
 cumulants and their initial-state transient corrections, as derived in the
