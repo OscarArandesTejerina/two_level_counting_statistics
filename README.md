@@ -15,7 +15,7 @@ A driven two-level emitter under continuous dephasing, with a single counted
 decay channel. In the conventions used throughout (ℏ = 1):
 
 - Hamiltonian: `H = γ_d σ_x`
-- counted jump operator: `L_w = √(γ_w) σ_-`  (rate `γ_w`)
+- counted jump operator: `L_w = σ_-`  (rate `γ_w`)
 - dephasing along `X = cosθ σ_x + sinθ σ_z`, at rate `γ_m`
 
 The detected photons are treated as the ticks of a clock; `N` is the number of
