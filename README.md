@@ -1,4 +1,4 @@
-# two-level-counting-corrections
+# two-level-counting-statistics
 
 Symbolic Mathematica derivations of the photon-counting statistics of a
 two-level emitter with dephasing noise, accompanying the paper:
